@@ -28,7 +28,7 @@ public class BookModel {
         return titulo;
     }
 
-        public void setTitulo(String titulo) {
+    public void setTitulo(String titulo) {
         this.titulo = titulo;
     }
 
